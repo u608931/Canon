@@ -1,6 +1,21 @@
 # Canon
 
- 
+## Introduction
+This canon will explain the concept of regulated markets and the ways in which the structures in these markets are challenged by the entrance of new competitors. The canon proceeds with the basics of regulation. Then, a relevant example of a regulated market that is currently challenged by new competitors will be outlined. This market is the taxi market, which is fiercely challenged by the emergence of Uber. First, the regulation in the taxi market will be discussed. Second, the rise and the implications of the entrance of Uber in the taxi market will be considered in detail. Third, the regulations and policy measures against Uber will be reviewed. Fourth, the canon addresses the big picture in which the emergence of Uber fits. Finally, the conclusion provides a brief summary about heavily regulated markets that face new entrants.
+
+## Basics
+Anyone who has ever taken a class in economics is taught the concept of perfectly competitive markets. Basically, our current economic system, Capitalism, is built on the fundaments of this theory. In a perfectly competitive market, marginal revenue equals marginal costs. This leads to a Pareto-efficient outcome, where no individual can be made better off without making another worse off.  This looks ‘great’, however in practice these perfectly competitive markets do not exist. This is because the theory is built on many strong assumptions: there are large number of buyers and sellers, there is perfect information, products are homogeneous, property rights are well defined, there are no entry or exit barriers, no agent has any form of market power, factors are perfectly mobile, sellers maximize their profits, buyers maximize their utility, there are no transaction costs, no increasing returns to scale or network effects and at last there are no externalities on third parties.
+
+If a market does not satisfy all of these conditions, this Pareto-optimum is not reached. We, Economists, call the violations of the assumptions market failures. If market failure leads to an undesirable outcome, there is cause for government intervention. Policy makers can then regulate markets in order to maximize social welfare, often by increasing competition in imperfect markets. Obviously, the type of government intervention depends on the form of market failure. 
+
+*Entry barriers*
+
+One example of a market failure is an entry barrier. An entry barrier inhibitsnew firms from entering the market at zero cost. This may be an undesirable feature of the market as entry barriers give incumbent firms market power, which implies that they can charge a higher price than under perfect competition. There are many different forms of entry barriers, some barriers occur naturally (e.g. restricted access to resources) while others are imposed on purpose by the incumbents (e.g. product differentiation) and governments (e.g. licenses).
+
+*New entrants*
+
+In the recent past, new firms entered various markets by overcoming entry barriers using innovative technologies and modern communication. The case of Uber in the taxi market will serve as an example of how newly emerging players bypass legal regulations by creating a direct connection between providers and consumers.Now let us discuss these regulatory issues in more detail.
+
 ## Regulation in the taxi market 
 This part is constructed as follows. First, we will describe the market failures that form the foundation of regulation in the taxi industry. Second, we will provide information on the regulatory instruments that are used in the taxi industry. Third, problems associated with regulation will be discussed.
   
