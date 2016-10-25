@@ -91,3 +91,45 @@ In this canon we have discussed heavily regulated markets and have used the ride
 The main reasons requiring regulation in the taxi market we argued are that perfect price competition will not prevail in an unregulated market, without limits on the number of operators there would be excessive supply of taxis and elements of the quality of driver are unobservable to the customers, and therefore price, quality and supply limit regulations are put in place. Recently there has been a trend of deregulation due to the fact that it is very costly to regulate the taxi market and political economy reasons. For insights into the new ridesharing market we provided a brief history of Uber and the effect that the company is currently imposing on the market. 
 
 As a final note to policy makers it is our view that policy and regulations should be implemented in a way as to enhance the workings of the market for taxis and ridesharing and not to protect the dominant position of the drivers. Operators in the collaborative economy should be allowed to operate in the market although their operations should not be unfettered and they should not be given an unfair advantage over the incumbents, or we run the risk of replacing one inefficient market structure with another. 
+
+## References:
+
+http://ac.els-cdn.com/S0965856404001053/1-s2.0-S0965856404001053-main.pdf?_tid=8f0be596-8dfa-11e6-bf70-00000aab0f26&acdnat=1476001976_127da5153b8db062b16424f395645ef2
+
+http://ac.els-cdn.com/S0967070X07000534/1-s2.0-S0967070X07000534-main.pdf?_tid=070c497c-8d43-11e6-be7d-00000aab0f6c&acdnat=1475923150_d71371a0e95769774f1b0431f19c2994
+
+http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
+
+https://www.bloomberg.com/news/articles/2016-08-25/uber-loses-at-least-1-2-billion-in-first-half-of-2016
+
+http://www.businessinsider.com/more-proof-that-uber-is-killing-the-taxi-industry-2016-1?international=true&r=US&IR=T
+
+http://www.businessinsider.com/uber-says-its-profitable-in-the-us-2016-4?international=true&r=US&IR=T 
+
+http://www.businessinsider.com/uber-majority-ride-hailing-market-share-lyft-us-2016-8?international=true&r=US&IR=T 
+
+http://www.cnbc.com/2016/09/02/uber-and-lyft-are-getting-pushback-from-municipalities-all-over-the-us.html 
+
+http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations
+
+http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-will-be-bigger-than-gm-ford-and-honda/#3c1951345858 
+
+http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page105
+
+http://www.investopedia.com/terms/b/barrierstoentry.asp  
+
+http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
+
+https://www.nrc.nl/nieuws/2016/01/02/de-lessen-van-uber-en-airbnb-1572271-a1332475
+
+http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf
+
+http://www.miamiherald.com/news/local/community/miami-dade/article75436467.html   
+
+http://www.theatlantic.com/technology/archive/2016/07/ubers-latest-push-toward-driverless-cars/493271/ 
+
+https://www.theguardian.com/technology/2016/apr/27/how-uber-conquered-london 
+
+http://time.com/2953528/uber-london/ 
+
+https://www.uber.com/en-NL/cities/ 
