@@ -107,11 +107,11 @@ Footnotes Guus:
 
 http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
 
-https://www.bloomberg.com/news/articles/2016-08-25/uber-loses-at-least-1-2-billion-in-first-half-of-2016
+<sup>5</sup> Newcomer, Eric. "Uber loses at least 1.2 billion in first half of 2016." Available at:  https://www.bloomberg.com/news/articles/2016-08-25/uber-loses-at-least-1-2-billion-in-first-half-of-2016
 
 http://www.businessinsider.com/more-proof-that-uber-is-killing-the-taxi-industry-2016-1?international=true&r=US&IR=T
 
-http://www.businessinsider.com/uber-says-its-profitable-in-the-us-2016-4?international=true&r=US&IR=T 
+<sup>6</sup> McAlone, Nathan. "Uber says it’s 'profitable' in the US — here’s how much it makes per ride". Available at: http://www.businessinsider.com/uber-says-its-profitable-in-the-us-2016-4?international=true&r=US&IR=T 
 
 http://www.businessinsider.com/uber-majority-ride-hailing-market-share-lyft-us-2016-8?international=true&r=US&IR=T 
 
@@ -127,12 +127,11 @@ http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-
 
 https://www.nrc.nl/nieuws/2016/01/02/de-lessen-van-uber-en-airbnb-1572271-a1332475
 
-http://www.miamiherald.com/news/local/community/miami-dade/article75436467.html   
+<sup>7</sup> Hanks, Douglas." Uber and Lyft are now legal in Miami-Dade, and taxi owners vow to fight back". Available at: http://www.miamiherald.com/news/local/community/miami-dade/article75436467.html   
 
-http://www.theatlantic.com/technology/archive/2016/07/ubers-latest-push-toward-driverless-cars/493271/ 
+<sup>8</sup> Lafrance, Adrienne. "Uber's latest push towards driveless cars". Available at: http://www.theatlantic.com/technology/archive/2016/07/ubers-latest-push-toward-driverless-cars/493271/ 
 
-https://www.theguardian.com/technology/2016/apr/27/how-uber-conquered-london 
+<sup>9</sup>Knight, Sam. "How Uber conquered London" Available at: https://www.theguardian.com/technology/2016/apr/27/how-uber-conquered-london 
 
 http://time.com/2953528/uber-london/ 
-
-https://www.uber.com/en-NL/cities/ 
+ 
