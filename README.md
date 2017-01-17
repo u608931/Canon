@@ -19,22 +19,22 @@ One example of a market failure is an entry barrier. An entry barrier inhibits n
 In the recent past, new firms entered various markets by overcoming entry barriers using innovative technologies and modern communication. The case of Uber in the taxi market will serve as an example of how newly emerging players bypass legal regulations by creating a direct connection between providers and consumers. Now let us discuss these regulatory issues in more detail.
 
 ## Regulation in the taxi market 
-This part is constructed as follows. First, we will describe the market failures that form the foundation of regulation in the taxi industry. Second, we will provide information on the regulatory instruments that are used in the taxi industry. Third, problems associated with regulation will be discussed.
+In this part the regulation in the taxi market will be considered. First, we will describe the market failures that form the foundation of regulation in the taxi industry. Second, we will provide information on the regulatory instruments that are used in the taxi industry. Finally, problems associated with regulation will be discussed.
   
-An unregulated taxi market faces market failures that provide reason for regulation. Among these, important failures are: the absence of perfect price competition, excess entry, asymmetric information regarding quality and congestion externalities.  
+An unregulated taxi market faces market failures that provide reason for regulation. Among these, important failures are: the absence of perfect price competition<sup>1</sup>, excess entry<sup>2</sup>, asymmetric information regarding quality<sup>1</sup> and congestion externalities<sup>3</sup>.  
   
 * Perfect price competition will not prevail in an unregulated taxi market. In an unregulated market, operators could set their prices separately. The perfect competitive outcome would predict that an operator that undercuts his rivals would extract additional sales from his rivals. In reality, this might not be the case. The problem is that consumers cannot observe the different prices of all operators easily. Therefore, it would be costly for consumers to search for the cheapest taxicab. These costs include the time that passes before finding the cheapest offer, as well as the psychological cost of declining offers.   
 * Open entry to the taxi market could lead to an excessive supply of independent operators. Low entry costs and the opportunity of self-employment could lead to persistent over-supply in the taxi market.  
 * Some aspects of taxicab quality are unobservable for consumers. For example, it is fairly difficult, if not impossible for consumers to observe the competence of the driver ex ante. So, there is asymmetric information regarding the characteristics of the taxi service.   
-* Taxis are a considerable source of road traffic congestion. For example, there are approximately 485000 taxi trips in New York per day. Obviously, the enormous amount of taxi rides contributes to traffic congestion.  
+* Taxis are a considerable source of road traffic congestion. For example, in 2014 there were approximately 485000 taxi trips in New York per day<sup>4</sup>. Obviously, the enormous amount of taxi rides contributes to traffic congestion.  
   
-To counter these market failures, taxi markets are often heavily regulated. Price control, entry regulation and quality regulation are frequently used policy instruments.  
+To counter these market failures, taxi markets are often heavily regulated. Price control, entry regulation and quality regulation are frequently used policy instruments<sup>1</sup>.  
   
 * To counter the inadequacy of price competition, prices are often controlled by means of metering. The regulated price is a function consisting of a fixed cost plus a variable part related to distance and time of a taxi ride.
 * To control for the excess entry result, entry is widely regulated by means of limitation. Usually, a distribution of mandatory licenses or medallions is used. This regulation could also temper the congestion externalities.
 * Quality regulation is used to solve the problems regarding asymmetric information regarding quality. Distribution and suspension of licences is used to maintain high quality services.  
   
-Many taxi markets that were first heavily regulated, later faced deregulations. This stems from problems associated with regulation in the taxi market. Important problems are discussed below.  
+Many taxi markets that were first heavily regulated, later faced deregulations. This stems from problems associated with regulation in the taxi market. Important problems are discussed below<sup>1</sup>.  
   
 * Regulation of the taxi market is very time-consuming and difficult, especially in contrast to the economic activity that it generates. Regulatory instruments may not be able to solve the problems associated with a free market. For example, quality regulation might not be able to solve asymmetric information problems.
 * Taxi operators are often very politically active. They lobby for entry regulations and price regulation that increases prices. Customers are poorly organized, so their preferences are underrepresented in regulation.  
@@ -94,9 +94,9 @@ As a final note to policy makers it is our view that policy and regulations shou
 
 ## References:
 
-http://ac.els-cdn.com/S0965856404001053/1-s2.0-S0965856404001053-main.pdf?_tid=8f0be596-8dfa-11e6-bf70-00000aab0f26&acdnat=1476001976_127da5153b8db062b16424f395645ef2
+Footnote Guus <sup>3</sup> Yang, Hai, et al. "Regulating taxi services in the presence of congestion externality." Transportation Research Part A: Policy and Practice 39.1 (2005): 17-40. available at: http://ac.els-cdn.com/S0965856404001053/1-s2.0-S0965856404001053-main.pdf?_tid=8f0be596-8dfa-11e6-bf70-00000aab0f26&acdnat=1476001976_127da5153b8db062b16424f395645ef2
 
-http://ac.els-cdn.com/S0967070X07000534/1-s2.0-S0967070X07000534-main.pdf?_tid=070c497c-8d43-11e6-be7d-00000aab0f6c&acdnat=1475923150_d71371a0e95769774f1b0431f19c2994
+Footnote Guus <sup>2</sup> Schaller, Bruce. "Entry controls in taxi regulation: Implications of US and Canadian experience for taxi regulation and deregulation." Transport Policy 14.6 (2007): 490-506. available at: http://ac.els-cdn.com/S0967070X07000534/1-s2.0-S0967070X07000534-main.pdf?_tid=070c497c-8d43-11e6-be7d-00000aab0f6c&acdnat=1475923150_d71371a0e95769774f1b0431f19c2994
 
 http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
 
@@ -114,7 +114,7 @@ http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations
 
 http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-will-be-bigger-than-gm-ford-and-honda/#3c1951345858 
 
-http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page105
+Footnote Guus <sup>1</sup> Liston-Heyes, Catherine, and Anthony Heyes. "Regulation of the Taxi Industry: some economic background." (2007). available at: http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page105 (Page 91)
 
 http://www.investopedia.com/terms/b/barrierstoentry.asp  
 
@@ -122,7 +122,7 @@ http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-
 
 https://www.nrc.nl/nieuws/2016/01/02/de-lessen-van-uber-en-airbnb-1572271-a1332475
 
-http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf
+Footnote Guus <sup>4</sup> http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf
 
 http://www.miamiherald.com/news/local/community/miami-dade/article75436467.html   
 
