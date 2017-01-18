@@ -6,7 +6,7 @@ This canon will explain the concept of regulated markets and the ways in which t
 ## Basics
 *Competition policy*
 
-Anyone who has ever taken a class in economics is taught the concept of perfectly competitive markets. Basically, our current economic system, Capitalism, is built on the fundaments of this theory. In a perfectly competitive market, marginal revenue equals marginal costs. This leads to a Pareto-efficient outcome, where no individual can be made better off without making another worse off.  This looks ‘great’, however in practice these perfectly competitive markets do not exist. This is because the theory is built on many strong assumptions: there are large number of buyers and sellers, there is perfect information, products are homogeneous, property rights are well defined, there are no entry or exit barriers, no agent has any form of market power, factors are perfectly mobile, sellers maximize their profits, buyers maximize their utility, there are no transaction costs, no increasing returns to scale or network effects and at last there are no externalities on third parties.
+Anyone who has ever taken a class in economics is taught the concept of perfectly competitive markets. Basically, our current economic system, Capitalism, is built on the fundaments of this theory. In a perfectly competitive market, marginal revenue equals marginal costs. This leads to a Pareto-efficient outcome, where no individual can be made better off without making another worse off.  This looks ‘great’, however in practice these perfectly competitive markets do not exist. This is because the theory is built on many strong assumptions: there are large number of buyers and sellers, there is perfect information, products are homogeneous, property rights are well defined, there are no entry or exit barriers, no agent has any form of market power, factors are perfectly mobile, sellers maximize their profits, buyers maximize their utility, there are no transaction costs, no increasing returns to scale or network effects and at last there are no externalities on third parties.<sup>1</sup>
 
 If a market does not satisfy all of these conditions, this Pareto-optimum is not reached. The violations of the assumptions are called market failures. If market failure leads to an undesirable outcome, there is cause for government intervention. Policy makers can then regulate markets in order to maximize social welfare, often by increasing competition in imperfect markets. Obviously, the type of government intervention depends on the form of market failure. 
 
@@ -95,7 +95,12 @@ As a final note to policy makers it is our view that policy and regulations shou
 ## References: 
  
   
-Footnotes Guus: 
+Footnotes 
+Guy
+
+<sup>1</sup>  Cassidy, John.  "How markets fail: The logic of economic calamities." (2007). available at: https://books.google.nl/books?id=u53fr1-99BQC&printsec=frontcover&dq=john+cassidy&hl=nl&sa=X&ved=0ahUKEwjOt82r6czRAhWHLhoKHTOvA34Q6AEIJjAB#v=onepage&q=john%20cassidy&f=false
+
+Guus: 
   
 <sup>1</sup> Liston-Heyes, Catherine, and Anthony Heyes. "Regulation of the Taxi Industry: some economic background." (2007). available at: http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page105 (Page 91) 
  
@@ -121,7 +126,6 @@ http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-wi
 
 http://www.investopedia.com/terms/b/barrierstoentry.asp  
 
-https://www.nrc.nl/nieuws/2016/01/02/de-lessen-van-uber-en-airbnb-1572271-a1332475
 
 <sup>7</sup> Hanks, Douglas." Uber and Lyft are now legal in Miami-Dade, and taxi owners vow to fight back". Available at: http://www.miamiherald.com/news/local/community/miami-dade/article75436467.html   
 
