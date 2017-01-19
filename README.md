@@ -132,4 +132,4 @@ http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations
 
 <sup>11</sup> "Uber, Airbnb and consequences of the sharing economy: Research roundup." Journalist's Resource. 05 Jan. 2017. Web. 19 Jan. 2017. Available at: http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
 
-<sup>12</sup> https://cs-people.bu.edu/dproserp/papers/airbnb.pdf
+<sup>12</sup> Zervas, Georgios, Davide Proserpio, and John W. Byers. "The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry." Boston U, 2013. Journal of Marketing Research (2014). Available at: https://cs-people.bu.edu/dproserp/papers/airbnb.pdf
