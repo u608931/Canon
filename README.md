@@ -97,7 +97,7 @@ Guus:
 
 <sup>3</sup> Yang, Hai, et al. "Regulating taxi services in the presence of congestion externality." Transportation Research Part A: Policy and Practice 39.1 (2005): 17-40. Available at: http://ac.els-cdn.com/S0965856404001053/1-s2.0-S0965856404001053-main.pdf?_tid=8f0be596-8dfa-11e6-bf70-00000aab0f26&acdnat=1476001976_127da5153b8db062b16424f395645ef2
  
-<sup>4</sup> http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf
+<sup>4</sup> Bloomberg, Michael R., Mayor, and David Yassky, Commissioner. 2014 Taxicab Factbook. New York City: Taxi & Limousine Commission, 2014. Available at: http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf
 
 <sup>5</sup> Newcomer, Eric. "Uber loses at least 1.2 billion in first half of 2016." Available at:  https://www.bloomberg.com/news/articles/2016-08-25/uber-loses-at-least-1-2-billion-in-first-half-of-2016
 
