@@ -130,6 +130,6 @@ Risberg, Eric. "Uber and Lyft are getting pushback from municipalities all over 
  <sup>10</sup> European Commission (2016). "A European agenda for the collaborative economy." Available at:
 http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations
 
-<sup>11</sup> http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
+<sup>11</sup> "Uber, Airbnb and consequences of the sharing economy: Research roundup." Journalist's Resource. 05 Jan. 2017. Web. 19 Jan. 2017. available at: http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
 
 <sup>12</sup> https://cs-people.bu.edu/dproserp/papers/airbnb.pdf
