@@ -87,15 +87,15 @@ As a final note to policy makers, it is our view that policy and regulations sho
 Footnotes 
 Guy
 
-<sup>1</sup>  Cassidy, John.  "How markets fail: The logic of economic calamities." (2007). available at: https://books.google.nl/books?id=u53fr1-99BQC&printsec=frontcover&dq=john+cassidy&hl=nl&sa=X&ved=0ahUKEwjOt82r6czRAhWHLhoKHTOvA34Q6AEIJjAB#v=onepage&q=john%20cassidy&f=false
+<sup>1</sup>  Cassidy, John.  "How markets fail: The logic of economic calamities." (2007). Available at: https://books.google.nl/books?id=u53fr1-99BQC&printsec=frontcover&dq=john+cassidy&hl=nl&sa=X&ved=0ahUKEwjOt82r6czRAhWHLhoKHTOvA34Q6AEIJjAB#v=onepage&q=john%20cassidy&f=false
 
 Guus: 
   
-<sup>1</sup> Liston-Heyes, Catherine, and Anthony Heyes. "Regulation of the Taxi Industry: some economic background." (2007). available at: http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page105 (Page 91) 
+<sup>1</sup> Liston-Heyes, Catherine, and Anthony Heyes. "Regulation of the Taxi Industry: some economic background." (2007). Available at: http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page105 (Page 91) 
  
-<sup>2</sup> Schaller, Bruce. "Entry controls in taxi regulation: Implications of US and Canadian experience for taxi regulation and deregulation." Transport Policy 14.6 (2007): 490-506. available at: http://ac.els-cdn.com/S0967070X07000534/1-s2.0-S0967070X07000534-main.pdf?_tid=070c497c-8d43-11e6-be7d-00000aab0f6c&acdnat=1475923150_d71371a0e95769774f1b0431f19c2994
+<sup>2</sup> Schaller, Bruce. "Entry controls in taxi regulation: Implications of US and Canadian experience for taxi regulation and deregulation." Transport Policy 14.6 (2007): 490-506. Available at: http://ac.els-cdn.com/S0967070X07000534/1-s2.0-S0967070X07000534-main.pdf?_tid=070c497c-8d43-11e6-be7d-00000aab0f6c&acdnat=1475923150_d71371a0e95769774f1b0431f19c2994
 
-<sup>3</sup> Yang, Hai, et al. "Regulating taxi services in the presence of congestion externality." Transportation Research Part A: Policy and Practice 39.1 (2005): 17-40. available at: http://ac.els-cdn.com/S0965856404001053/1-s2.0-S0965856404001053-main.pdf?_tid=8f0be596-8dfa-11e6-bf70-00000aab0f26&acdnat=1476001976_127da5153b8db062b16424f395645ef2
+<sup>3</sup> Yang, Hai, et al. "Regulating taxi services in the presence of congestion externality." Transportation Research Part A: Policy and Practice 39.1 (2005): 17-40. Available at: http://ac.els-cdn.com/S0965856404001053/1-s2.0-S0965856404001053-main.pdf?_tid=8f0be596-8dfa-11e6-bf70-00000aab0f26&acdnat=1476001976_127da5153b8db062b16424f395645ef2
  
 <sup>4</sup> http://www.nyc.gov/html/tlc/downloads/pdf/2014_taxicab_fact_book.pdf
 
@@ -105,19 +105,19 @@ Guus:
 
 Sila:
 
-<sup>1</sup> Fischer, Ben. "In Uber vs. taxi cab fight, expense reports offer telling barometer." Bizjournals.com. 07 Apr. 2015. Web. 19 Jan. 2017. available at: http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
+<sup>1</sup> Fischer, Ben. "In Uber vs. taxi cab fight, expense reports offer telling barometer." Bizjournals.com. 07 Apr. 2015. Web. 19 Jan. 2017. Available at: http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
 
-<sup>2</sup> Chen, Liyan. "At $68 Billion Valuation, Uber Will Be Bigger Than GM, Ford, And Honda." Forbes. Forbes Magazine, 04 Dec. 2015. Web. 19 Jan. 2017. available at: http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-will-be-bigger-than-gm-ford-and-honda/#3c1951345858 
+<sup>2</sup> Chen, Liyan. "At $68 Billion Valuation, Uber Will Be Bigger Than GM, Ford, And Honda." Forbes. Forbes Magazine, 04 Dec. 2015. Web. 19 Jan. 2017. Available at: http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-will-be-bigger-than-gm-ford-and-honda/#3c1951345858 
 
-<sup>3</sup> Hartmans, Avery. "Uber says it has over 80% of the ride-hailing market in the U.S." Business Insider. Business Insider, 25 Aug. 2016. Web. 19 Jan. 2017. available at: http://www.businessinsider.com/uber-majority-ride-hailing-market-share-lyft-us-2016-8?international=true&r=US&IR=T 
+<sup>3</sup> Hartmans, Avery. "Uber says it has over 80% of the ride-hailing market in the U.S." Business Insider. Business Insider, 25 Aug. 2016. Web. 19 Jan. 2017. Available at: http://www.businessinsider.com/uber-majority-ride-hailing-market-share-lyft-us-2016-8?international=true&r=US&IR=T 
 
-Stenovec, Tim. "More proof that Uber is killing the taxi industry." Business Insider. Business Insider, 07 Jan. 2016. Web. 17 Jan. 2017. available at: http://www.businessinsider.com/more-proof-that-uber-is-killing-the-taxi-industry-2016-1?international=true&r=US&IR=T
+Stenovec, Tim. "More proof that Uber is killing the taxi industry." Business Insider. Business Insider, 07 Jan. 2016. Web. 17 Jan. 2017. Available at: http://www.businessinsider.com/more-proof-that-uber-is-killing-the-taxi-industry-2016-1?international=true&r=US&IR=T
 
 Gidda, Mirren. "Uber Gets Green Light in London After Massive Protests." Time. Time, 03 July 2014. Web. 19 Jan. 2017. available at: http://time.com/2953528/uber-london/
 
-Risberg, Eric. "Uber and Lyft are getting pushback from municipalities all over the US." CNBC. CNBC, 02 Sept. 2016. Web. 19 Jan. 2017. available at: http://www.cnbc.com/2016/09/02/uber-and-lyft-are-getting-pushback-from-municipalities-all-over-the-us.html 
+Risberg, Eric. "Uber and Lyft are getting pushback from municipalities all over the US." CNBC. CNBC, 02 Sept. 2016. Web. 19 Jan. 2017. Available at: http://www.cnbc.com/2016/09/02/uber-and-lyft-are-getting-pushback-from-municipalities-all-over-the-us.html 
   
-"Barriers To Entry." Investopedia. 31 July 2015. Web. 19 Jan. 2017. available at: http://www.investopedia.com/terms/b/barrierstoentry.asp
+"Barriers To Entry." Investopedia. 31 July 2015. Web. 19 Jan. 2017. Available at: http://www.investopedia.com/terms/b/barrierstoentry.asp
 
 <sup>7</sup> Hanks, Douglas." Uber and Lyft are now legal in Miami-Dade, and taxi owners vow to fight back". Available at: http://www.miamiherald.com/news/local/community/miami-dade/article75436467.html   
 
@@ -130,6 +130,6 @@ Risberg, Eric. "Uber and Lyft are getting pushback from municipalities all over 
  <sup>10</sup> European Commission (2016). "A European agenda for the collaborative economy." Available at:
 http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations
 
-<sup>11</sup> "Uber, Airbnb and consequences of the sharing economy: Research roundup." Journalist's Resource. 05 Jan. 2017. Web. 19 Jan. 2017. available at: http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
+<sup>11</sup> "Uber, Airbnb and consequences of the sharing economy: Research roundup." Journalist's Resource. 05 Jan. 2017. Web. 19 Jan. 2017. Available at: http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
 
 <sup>12</sup> https://cs-people.bu.edu/dproserp/papers/airbnb.pdf
