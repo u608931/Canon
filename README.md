@@ -64,17 +64,6 @@ An interesting question that arises at this point is what the future of Uber and
 Finally, Uber is also planning on investing in carpooling projects and in even more technological ambitious ventures, such as self-driving cars.<sup>9</sup> 
 Could these become reality in the close future or are they merely Uber’s latest attempt to escape the law on licenses for drivers by abolishing the very figure of drivers in the first place?
 
-
-
-
-
-
-
-
-
-
-
-
 ## The Sharing Economy in the Big Picture
 In this section, we will show that the case of Uber in the Taxi market can be representative of new entrants facilitated by technological progress, introducing competition into other regulated markets or markets with barriers to entry. Uber is part of a wider newly emerging sector referred to as the sharing or collaborative economy. This new sector involves using technology to link demand with supply of underutilized assets mostly from individuals rather than firms. To date, the European commission has been enthusiastic in encouraging the progress of the collaborative economy as a way to enhance competition in the single market and increase economic activity in the area.<sup>10</sup> However, it acknowledges that there are areas where regulation needs to be introduced to this sector such as taxation, liability and the employment status of those providing their assets and/or services. 
 
@@ -116,11 +105,11 @@ Guus:
 
 Sila:
 
-<sup>1</sup> http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
+<sup>1</sup> Fischer, Ben. "In Uber vs. taxi cab fight, expense reports offer telling barometer." Bizjournals.com. 07 Apr. 2015. Web. 19 Jan. 2017. available at: http://www.bizjournals.com/newyork/blog/techflash/2015/04/uber-taxi-expense-report-certify-study.html 
 
-<sup>2</sup> http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-will-be-bigger-than-gm-ford-and-honda/#3c1951345858 
+<sup>2</sup> Chen, Liyan. "At $68 Billion Valuation, Uber Will Be Bigger Than GM, Ford, And Honda." Forbes. Forbes Magazine, 04 Dec. 2015. Web. 19 Jan. 2017. available at: http://www.forbes.com/sites/liyanchen/2015/12/04/at-68-billion-valuation-uber-will-be-bigger-than-gm-ford-and-honda/#3c1951345858 
 
-<sup>3</sup> http://www.businessinsider.com/uber-majority-ride-hailing-market-share-lyft-us-2016-8?international=true&r=US&IR=T 
+<sup>3</sup> Hartmans, Avery. "Uber says it has over 80% of the ride-hailing market in the U.S." Business Insider. Business Insider, 25 Aug. 2016. Web. 19 Jan. 2017. available at: http://www.businessinsider.com/uber-majority-ride-hailing-market-share-lyft-us-2016-8?international=true&r=US&IR=T 
 
 Stenovec, Tim. "More proof that Uber is killing the taxi industry." Business Insider. Business Insider, 07 Jan. 2016. Web. 17 Jan. 2017. available at: http://www.businessinsider.com/more-proof-that-uber-is-killing-the-taxi-industry-2016-1?international=true&r=US&IR=T
 
