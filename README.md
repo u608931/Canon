@@ -5,21 +5,17 @@ This canon will explain the concept of regulated markets and the ways in which t
 
 ## Basics
 *Competition policy*
-
 Anyone who has ever taken a class in economics is taught the concept of perfectly competitive markets. Basically, our current economic system, Capitalism, is built on the fundaments of this theory. In a perfectly competitive market, marginal revenue equals marginal costs. This leads to a Pareto-efficient outcome, where no individual can be made better off without making another worse off. This looks ‘great’, however in practice, these perfectly competitive markets do not exist. This is because the theory is built on many strong assumptions: there are large numbers of buyers and sellers, there is perfect information, products are homogeneous, property rights are well defined, there are no entry or exit barriers, no agent has any form of market power, factors are perfectly mobile, sellers maximize their profits, buyers maximize their utility, there are no transaction costs, no increasing returns to scale or network effects and lastly, there are no externalities on third parties.<sup>1</sup>
-
-If a market does not satisfy all of these conditions, this Pareto-optimum is not reached. The violations of the assumptions are called market failures. If market failure leads to an undesirable outcome, there is cause for government intervention. Policy makers can then regulate markets in order to maximize social welfare, often by increasing competition in imperfect markets. Obviously, the type of government intervention depends on the form of market failure. 
-
+If a market does not satisfy all of these conditions, this Pareto-optimum is not reached. 
+The violations of the assumptions are called market failures. If market failure leads to an undesirable outcome, there is cause for government intervention. Policy makers can then regulate markets in order to maximize social welfare, often by increasing competition in imperfect markets. Obviously, the type of government intervention depends on the form of market failure. 
 *Entry barriers*
-
-
 One example of a market failure is an entry barrier.
 An entry barrier inhibits new firms from entering the market at zero cost. This may be an undesirable feature of the
 market as entry barriers give incumbent firms market power, which implies that they can charge a higher price than under perfect competition. 
 
 There are many different forms of entry barriers. Some occur naturally, as for restricted access to resources and economies of scale
-that create natural monopolies*, while others are imposed on purpose by the incumbents, e.g. exclusive dealing agreements* between suppliers and retailers, or even by governments,  in the case of licenses and intellectual property rights*.
-As an example of a market in which we find all of these features, we can mention national electricity markets*, which exhibit common traits all over the world: it used to be a vertically-integrated, often state-owned, natural monopoly, but in the recent years it has witnessed consistent waves of liberalization and privatization worldwide.
+that create natural monopolies <sup>2</sup>, while others are imposed on purpose by the incumbents, e.g. exclusive dealing agreements <sup>3</sup> between suppliers and retailers, or even by governments,  in the case of licenses and intellectual property rights <sup>4</sup>.
+As an example of a market in which we find all of these features, we can mention national electricity markets sup>5</sup>, which exhibit common traits all over the world: it used to be a vertically-integrated, often state-owned, natural monopoly, but in the recent years it has witnessed consistent waves of liberalization and privatization worldwide.
 
  However, the effects of removing entry barriers and increasing competition on total welfare are not always univocally defined,
 and we will analyze this issue with respect to the recent developments of another relevant field: the private transportation sector (taxi market).
@@ -96,7 +92,6 @@ As a final note to policy makers, it is our view that policy and regulations sho
   
 Footnotes 
 Guy
-
 <sup>1</sup>  Cassidy, John.  "How markets fail: The logic of economic calamities." (2007). Available at: https://books.google.nl/books?id=u53fr1-99BQC&printsec=frontcover&dq=john+cassidy&hl=nl&sa=X&ved=0ahUKEwjOt82r6czRAhWHLhoKHTOvA34Q6AEIJjAB#v=onepage&q=john%20cassidy&f=false
 
 Guus: 
@@ -143,3 +138,22 @@ http://ec.europa.eu/DocsRoom/documents/16881/attachments/2/translations
 <sup>11</sup> "Uber, Airbnb and consequences of the sharing economy: Research roundup." Journalist's Resource. 05 Jan. 2017. Web. 19 Jan. 2017. Available at: http://journalistsresource.org/studies/economics/business/airbnb-lyft-uber-bike-share-sharing-economy-research-roundup 
 
 <sup>12</sup> Zervas, Georgios, Davide Proserpio, and John W. Byers. "The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry." Boston U, 2013. Journal of Marketing Research (2014). Available at: https://cs-people.bu.edu/dproserp/papers/airbnb.pdf
+
+Carlotta new part
+
+<sup>2</sup> Joskow, Paul L. " Regulation
+of Natural Monopoly." Handbook of Law and Economics (2007): 1227-348.
+Web. <http://economics.mit.edu/files/1180.>
+
+<sup>3</sup> Melamed, D.A. “Exclusive dealing agreements and
+other exclusionary conduct: are there unifying principles?”. Antitrust Law Journal 73 No. 2 (2006). Web <http://www.wilmerhale.com/uploadedFiles/WilmerHale_Shared_Content/Files/Editorial/Publication/Melamed_ExclusiveDealingAgreements.pdf>
+
+<sup>4</sup> Boldrin, Michele, and Levine, David K. "The Case against Patents." Journal of Economic Perspectives 27 No. 1 (2013):
+3-22. Web. <http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.27.1.3>
+
+<sup>5</sup> Wilson, Robert. "Architecture of Power Markets." Econometrica 70.4 (2002): 1299-340. Web.
+<https://pdfs.semanticscholar.org/0a51/190e7ea5c4ed0c2f571053758d0019c8ea71.pdf>.
+
+
+
+
