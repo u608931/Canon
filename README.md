@@ -12,7 +12,17 @@ If a market does not satisfy all of these conditions, this Pareto-optimum is not
 
 *Entry barriers*
 
-One example of a market failure is an entry barrier. An entry barrier inhibits new firms from entering the market at zero cost. This may be an undesirable feature of the market as entry barriers give incumbent firms market power, which implies that they can charge a higher price than under perfect competition. There are many different forms of entry barriers, some barriers occur naturally (e.g. restricted access to resources) while others are imposed on purpose by the incumbents (e.g. product differentiation) and governments (e.g. licenses).
+
+One example of a market failure is an entry barrier.
+An entry barrier inhibits new firms from entering the market at zero cost. This may be an undesirable feature of the
+market as entry barriers give incumbent firms market power, which implies that they can charge a higher price than under perfect competition. 
+
+There are many different forms of entry barriers. Some occur naturally, as for restricted access to resources and economies of scale
+that create natural monopolies*, while others are imposed on purpose by the incumbents, e.g. exclusive dealing agreements* between suppliers and retailers, or even by governments,  in the case of licenses and intellectual property rights*.
+As an example of a market in which we find all of these features, we can mention national electricity markets*, which exhibit common traits all over the world: it used to be a vertically-integrated, often state-owned, natural monopoly, but in the recent years it has witnessed consistent waves of liberalization and privatization worldwide.
+
+ However, the effects of removing entry barriers and increasing competition on total welfare are not always univocally defined,
+and we will analyze this issue with respect to the recent developments of another relevant field: the private transportation sector (taxi market).
 
 *New entrants*
 
