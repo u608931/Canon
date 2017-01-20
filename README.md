@@ -4,11 +4,15 @@
 This canon will explain the concept of regulated markets and the ways in which the structures in these markets are challenged by the entrance of new competitors. The canon proceeds with a general introduction to the basics of competition and regulation, followed by a relevant example of a regulated market that is currently challenged by new competitors. This market is the taxi market, which is fiercely challenged by the emergence of the ridesharing company Uber. First, the regulation in the taxi market will be discussed. Second, the rise and the implications of the entrance of Uber in the taxi market will be considered in detail. Third, the regulations and policy measures against Uber will be reviewed. Finally, the canon presents how the case of Uber fits into the big picture and discusses existing scientific research and literature on the matter. A brief summary about heavily regulated markets facing new entrants concludes the canon.
 
 ## Basics
+
 *Competition policy*
+
 Anyone who has ever taken a class in economics is taught the concept of perfectly competitive markets. Basically, our current economic system, Capitalism, is built on the fundaments of this theory. In a perfectly competitive market, marginal revenue equals marginal costs. This leads to a Pareto-efficient outcome, where no individual can be made better off without making another worse off. This looks ‘great’, however in practice, these perfectly competitive markets do not exist. This is because the theory is built on many strong assumptions: there are large numbers of buyers and sellers, there is perfect information, products are homogeneous, property rights are well defined, there are no entry or exit barriers, no agent has any form of market power, factors are perfectly mobile, sellers maximize their profits, buyers maximize their utility, there are no transaction costs, no increasing returns to scale or network effects and lastly, there are no externalities on third parties.<sup>1</sup>
 If a market does not satisfy all of these conditions, this Pareto-optimum is not reached. 
 The violations of the assumptions are called market failures. If market failure leads to an undesirable outcome, there is cause for government intervention. Policy makers can then regulate markets in order to maximize social welfare, often by increasing competition in imperfect markets. Obviously, the type of government intervention depends on the form of market failure. 
+
 *Entry barriers*
+
 One example of a market failure is an entry barrier.
 An entry barrier inhibits new firms from entering the market at zero cost. This may be an undesirable feature of the
 market as entry barriers give incumbent firms market power, which implies that they can charge a higher price than under perfect competition. 
